@@ -1,2 +1,0 @@
-com/system/messaging/batch/SystemMessagingBatchApplication.java
- com.system.messaging.batch.SystemMessagingBatchApplication
