@@ -4,18 +4,14 @@
 For further reference, please consider the following sections:
 
 * [Official Gradle documentation](https://docs.gradle.org)
-* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.0/gradle-plugin/reference/html/)
-* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.0/gradle-plugin/reference/html/#build-image)
-* [Spring Web](https://docs.spring.io/spring-boot/docs/2.4.0/reference/htmlsingle/#boot-features-developing-web-applications)
-* [Spring Batch](https://docs.spring.io/spring-boot/docs/2.4.0/reference/htmlsingle/#howto-batch-applications)
-* [Spring for RabbitMQ](https://docs.spring.io/spring-boot/docs/2.4.0/reference/htmlsingle/#boot-features-amqp)
+* [Spring Boot Gradle Plugin Reference Guide](https://docs.spring.io/spring-boot/docs/2.4.1/gradle-plugin/reference/html/)
+* [Create an OCI image](https://docs.spring.io/spring-boot/docs/2.4.1/gradle-plugin/reference/html/#build-image)
+* [Spring Batch](https://docs.spring.io/spring-boot/docs/2.4.1/reference/htmlsingle/#howto-batch-applications)
+* [Spring for RabbitMQ](https://docs.spring.io/spring-boot/docs/2.4.1/reference/htmlsingle/#boot-features-amqp)
 
 ### Guides
 The following guides illustrate how to use some features concretely:
 
-* [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service/)
-* [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
-* [Building REST services with Spring](https://spring.io/guides/tutorials/bookmarks/)
 * [Creating a Batch Service](https://spring.io/guides/gs/batch-processing/)
 * [Messaging with RabbitMQ](https://spring.io/guides/gs/messaging-rabbitmq/)
 

@@ -1,13 +1,14 @@
-package com.example.batch_rabbit_example;
+
+package com.system.messaging.batch;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BatchRabbitExampleApplication {
+public class SystemMessagingBatchApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BatchRabbitExampleApplication.class, args);
+		SpringApplication.run(SystemMessagingBatchApplication.class, args);
 	}
 
 }

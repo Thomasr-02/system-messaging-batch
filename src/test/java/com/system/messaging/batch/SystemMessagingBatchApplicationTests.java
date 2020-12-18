@@ -1,10 +1,10 @@
-package com.example.batch_rabbit_example;
+package com.system.messaging.batch;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BatchRabbitExampleApplicationTests {
+class SystemMessagingBatchApplicationTests {
 
 	@Test
 	void contextLoads() {
