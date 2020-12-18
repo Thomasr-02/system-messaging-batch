@@ -1,0 +1,12 @@
+spring:
+  #  username: guest
+  #  password: guest
+
+  rabbitmq:
+    #host: localhost
+    #port: 5672
+    listener:
+      type: simple
+      simple:
+        prefetch: 1
+        acknowledge-mode: manual
